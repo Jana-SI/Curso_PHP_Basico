@@ -1,4 +1,4 @@
-# <img src="https://img.shields.io/badge/Curso_PHP_Basico-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+# <img src="https://img.shields.io/badge/Curso_de_PHP_Básico-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 
 <p>
 
